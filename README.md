@@ -9,5 +9,5 @@ GOAL SELECTED - SDG GOAL 2 (End hunger, achieve food security and improved nutri
 # LIVE LINK
 https://harshitg20.github.io/Annapoorna/
 
-\https://annapoornacharity.netlify.app/
+https://annapoornacharity.netlify.app/
 
