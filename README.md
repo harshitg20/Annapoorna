@@ -4,8 +4,7 @@ THIS REPOSITORY HOLDS A GROUP PROJECT EXECUTED BY TEAM PHOENIX AS ACCESSMENT FOR
 # TASK
 CREATE A WEBSITE BUILT AROUND AN SDG GOAL AND PROFER SOLUTION TO THE SAID GOAL.
 
-GOAL SELECTED - SDG GOAL 2 (End hunger, achieve food security and improved nutrition and promote sustainable agriculture).
-
+The chosen objective is Sustainable Development Goal 2 which aims to eradicate hunger, ensure food security, enhance nutrition and promote sustainable agriculture.
 # LIVE LINK
 https://harshitg20.github.io/Annapoorna/
 
